@@ -1,2 +1,3 @@
-# welcome , every one in this project
+# welcome , everyone in this project
 ## about us
+### we are from Egypt 
